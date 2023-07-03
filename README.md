@@ -1,1 +1,3 @@
 # Diabetes-prediction
+
+The diabetes is one of lethal diseases in the world. It will be predicting Whether the patient has diabetes or not on the basis of the features we will Provide to our machine learning model, and we will create a website that can predict if   the patient has diabetes or not. In this we are including age,  Glucose, blood pressure, body mass index so from this we can predict the patient has  diabetes or not on the basis of the features we will provide. After giving this all  At last it can show diabetes or not to the patient. It is additional a inventor of  various varieties of disorders for example: coronary failure, blindness, urinary organ diseases etc.
